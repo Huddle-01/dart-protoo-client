@@ -1,4 +1,5 @@
-[![pub package](https://img.shields.io/pub/v/protoo_client.svg)](https://pub.dartlang.org/packages/protoo_client)
+## Note
+This package is a fork of [dart-protoo-client](https://github.com/flutter-webrtc/dart-protoo-client) from [pub](https://pub.dev/packages/protoo_client).
 
 # protoo-client
 Dart version of the [protoo-client](https://github.com/ibc/protoo/tree/master/client) js library.

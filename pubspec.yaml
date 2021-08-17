@@ -1,7 +1,7 @@
-name: protoo_client
-version: 0.3.0
+name: dart-protoo_client
+version: 0.3.1+null_safety
 description: Dart version of the protoo-client library.
-homepage: https://github.com/cloudwebrtc/dart-protoo-client
+homepage: https://github.com/Huddle-01/dart-protoo-client
 environment:
   sdk: ">=2.12.0 <3.0.0"
 

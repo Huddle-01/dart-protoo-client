@@ -1,6 +1,6 @@
-import 'package:protoo_client/protoo_client.dart';
-import 'package:protoo_client/src/transports/NativeTransport.dart'
-  if (dart.library.html) 'package:protoo_client/src/transports/WebTransport.dart';
+import 'package:dart_protoo_client/dart_protoo_client.dart';
+import 'package:dart_protoo_client/src/transports/NativeTransport.dart'
+  if (dart.library.html) 'package:dart_protoo_client/src/transports/WebTransport.dart';
 
 final url = 'wss://v3demo.mediasoup.org:4443';
 final roomId = 'asdasdds';

@@ -1,5 +1,5 @@
-name: dart-protoo_client
-version: 0.3.1+null_safety
+name: dart_protoo_client
+version: 0.3.1+null-safety
 description: Dart version of the protoo-client library.
 homepage: https://github.com/Huddle-01/dart-protoo-client
 environment:
@@ -8,3 +8,5 @@ environment:
 dependencies:
   events2: ^1.0.0
   retry: ^3.1.0
+dev_dependencies: 
+  test: ^1.17.11
